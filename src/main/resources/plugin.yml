@@ -1,8 +1,0 @@
-name: SkStorage
-version: '${project.version}'
-main: me.losin6450.addon.skstorage.SkStorage
-api-version: 1.17
-authors: [ Losin6450 ]
-description: A skript addon for storing data to files
-depend:
-  - Skript
